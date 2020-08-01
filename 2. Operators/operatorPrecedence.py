@@ -6,33 +6,34 @@
 
 #   **                      exponential 
 
-#   ~ + -                   complement, unary plus and minus
+#   ~  +  -                   complement, unary plus and minus
 
-#   * / % //                multiply, divide, modulo, and floor division
+#   *  /  %  //                multiply, divide, modulo, and floor division
 
-#   + -                     addition and substraction
+#   +  -                     addition and substraction
 
-#   >> <<                   right and left bitwise shift
+#   >>  <<                   right and left bitwise shift
 
 #   &                       bitwise 'AND'
 
-#   ^ |                     bitwise exclusive 'OR' and regular 'OR'
+#   ^  |                     bitwise exclusive 'OR' and regular 'OR'
 
-#   <= < > >=               comparision operator
+#   <=  <  >  >=               comparision operator
 
-#   <> == !=                equality operator
+#   <>  ==  !=                equality operator
 
-#   = %= /= //=             assignment operator
-#   -= += *= **=            assignment operator
+#   =  %=  /=  //=             assignment operator
 
-# is is not                 identity operator
+#   -=  +=  *=  **=            assignment operator
 
-# in not in                 membership operator
+# is  is not                 identity operator
 
-# not or and                logical operator
+# in  not in                 membership operator
+
+# not  or  and                logical operator
 
 
-# now lets have some examples
+# now lets look at some examples
 
 a = 20
 b = 10
