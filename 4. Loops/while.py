@@ -45,7 +45,7 @@ else:
 # Single Statement Suites
 """
 flag = 1
-while flag: print("Given falg is really True!")
+while flag: print("Given flag is really True!")
 print("Good Bye!")
 """
 # the above code is an example of infinite loop too.

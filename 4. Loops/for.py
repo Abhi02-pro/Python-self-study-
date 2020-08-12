@@ -33,5 +33,10 @@ for num in range(10, 20):
     for i in range(2, num):
         if num % i == 0:
             j = num / i
-            print()
+            print ("{0} equals {1}*{2}".format(num,i,int(j)))
+            break
+    else:
+        print(num, "is the prime number.")
+        
+# the above exmple is for finding the prime number.        
             
